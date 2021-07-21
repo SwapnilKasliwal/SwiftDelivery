@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gmail.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_gmail.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tshirts.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\tshirts.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_books.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\books.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_facebook.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glasses.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\glasses.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\category.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobiles.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\mobiles.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_app_logo.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_app_logo.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_packagedproducts.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\packagedproducts.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_details.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wholesaler_add_new_product.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_add_new_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_cart.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_cart.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_readymade.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\readymade.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_item_design.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\cart_item_design.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_add_product.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_add_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_app_logo.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_app_logo.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_facebook.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoess.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\shoess.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_facebook.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_orders_layout.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sweather.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\sweather.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmail.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\gmail.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orders.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\orders.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hats.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\hats.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_home.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_s_ign_up.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_s_ign_up.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_facebook.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gmail.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_gmail.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wholesaler_home.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_design.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wholesaler_new_orders.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_new_orders.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_add_new_product.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_add_new_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_applogo.PNG.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable-v24\\applogo.PNG"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_cart.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\nav_cart.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_log_in.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gmail.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gmail.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_yourorders.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_yourorders.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_product_details.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_product_details.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_female_dresses.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\female_dresses.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grocery.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\grocery.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vegetables.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\vegetables.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_app_logo.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_app_logo.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_productcat.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_productcat.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_app_logo.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_app_logo.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wholesaler_add_product.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_add_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laptops.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\laptops.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_new_orders.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_new_orders.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_productscat.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_productscat.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_applogosignup.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\applogosignup.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gmail.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_gmail.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purses_bags.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\purses_bags.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_products_display.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\products_display.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_facebook.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_facebook.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_watches.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\watches.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_order_products.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_order_products.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sports.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\sports.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_app_logo.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_app_logo.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fruits.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\fruits.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_gmail.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_gmail.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_applogo.PNG.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\applogo.PNG"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gmail.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_gmail.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_app_logo.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_app_logo.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_final_order.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_final_order.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headphoness.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\headphoness.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_product_image.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\select_product_image.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_user_products.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_user_products.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wholesaler_user_product.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_user_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_gmail.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_gmail.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_app_logo.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_app_logo.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

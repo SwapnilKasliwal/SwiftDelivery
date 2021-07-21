@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WholesalerHomeActivity">
+    <TextView
+        android:id="@+id/wholesaler_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:textAlignment="center"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/pending_orders_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/buttons"
+        android:layout_below="@id/wholesaler_name"
+        android:padding="17dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:text="View Pending Orders"
+        android:textColor="@android:color/white"
+        />
+    <Button
+        android:id="@+id/add_new_products_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pending_orders_btn"
+        android:layout_marginTop="27dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/buttons"
+        android:padding="17dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:text="Add New Products"
+        android:textColor="@android:color/white"
+        />
+
+    <Button
+        android:id="@+id/logout_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/add_new_products_btn"
+        android:layout_marginTop="27dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/buttons"
+        android:padding="17dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:text="Logout"
+        android:textColor="@android:color/white"
+        />
+
+
+
+
+
+
+
+</RelativeLayout>

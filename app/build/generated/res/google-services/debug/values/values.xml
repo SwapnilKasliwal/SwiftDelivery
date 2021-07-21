@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">3369366747-5iejedenb949konl25v7ujm69j9hospp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">3369366747</string>
+    <string name="google_api_key" translatable="false">AIzaSyDTbDts9oDSCe39465vVS0OcgesCaGbVa8</string>
+    <string name="google_app_id" translatable="false">1:3369366747:android:bcc9eb904ec41ae37a88fe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDTbDts9oDSCe39465vVS0OcgesCaGbVa8</string>
+    <string name="google_storage_bucket" translatable="false">swiftdelivery-44924.appspot.com</string>
+    <string name="project_id" translatable="false">swiftdelivery-44924</string>
+</resources>

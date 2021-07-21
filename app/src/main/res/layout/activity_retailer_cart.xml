@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CartActivity">
+
+    <RelativeLayout
+        android:id="@+id/cart_relamount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:layout_alignParentTop="true">
+        <TextView
+            android:id="@+id/cart_amountToPay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Total Amount: -"
+            android:textColor="@color/white"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_cart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cart_relamount"
+        android:layout_above="@id/cart_confirmOrder"
+        android:layout_marginTop="10dp"
+        >
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+    <Button
+        android:id="@+id/cart_confirmOrder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:layout_margin="10dp"
+        android:text="Confirm"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:id="@+id/cart_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="Congratulations, Your Order has been placed, Please check Orders to get an update."
+        android:textSize="20dp"
+        android:visibility="gone"/>
+
+
+</RelativeLayout>

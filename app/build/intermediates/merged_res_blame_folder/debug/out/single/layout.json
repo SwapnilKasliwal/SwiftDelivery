@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wholesaler_add_new_product.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_add_new_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_productcat.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_productcat.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_productscat.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_productscat.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_log_in.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product_details.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wholesaler_add_product.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_add_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_order_products.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_order_products.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_add_new_product.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_add_new_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\orders_layout.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_new_orders.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_new_orders.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_s_ign_up.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_s_ign_up.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wholesaler_home.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wholesaler_user_product.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_user_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_feedback.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_add_product.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_add_product.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\products_display.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\products_display.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_yourorders.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_yourorders.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_cart.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_cart.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_final_order.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_final_order.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wholesaler_new_orders.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_wholesaler_new_orders.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_product_details.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_product_details.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_user_products.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_user_products.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cart_item_design.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\cart_item_design.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_home.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_retailer_home.xml"
+    },
+    {
+        "merged": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cart.xml",
+        "source": "D:\\General Studies\\Udacity App dev\\SwiftDelivery\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    }
+]

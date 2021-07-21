@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".HomeActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+
+
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:text="Shop By Category"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30sp"
+            android:textStyle="bold|italic"/>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/fruits_touch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            app:cardElevation="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/category_fruits"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="Fruits"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/image_fruits"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_below="@id/category_fruits"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/fruits" />
+
+                <TextView
+                    android:id="@+id/fruits_description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/image_fruits"
+                    android:layout_centerHorizontal="true"
+                    android:text="Apples, Mangos, Strawberrys, etc."
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="20sp"
+                    android:textStyle="italic" />
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/vegetables_touch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            app:cardElevation="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/category_vegetables"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="Vegetables"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/vegetables_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_below="@id/category_vegetables"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/vegetables" />
+
+                <TextView
+                    android:id="@+id/vegetables_description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/vegetables_image"
+                    android:layout_centerHorizontal="true"
+                    android:text="Potatos, Corriander, Tomatos, etc."
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="20sp"
+                    android:textStyle="italic" />
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/grocery_touch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            app:cardElevation="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/category_grocery"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="Grocery"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/grocery_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_below="@id/category_grocery"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/grocery" />
+
+                <TextView
+                    android:id="@+id/grocery_description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/grocery_image"
+                    android:layout_centerHorizontal="true"
+                    android:text="Chana, Moong, Dals, etc."
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="20sp"
+                    android:textStyle="italic" />
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/readymade_touch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            app:cardElevation="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/category_readymade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="Readymade"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/readymade_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_below="@id/category_readymade"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/readymade" />
+
+                <TextView
+                    android:id="@+id/readymade_description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/readymade_image"
+                    android:layout_centerHorizontal="true"
+                    android:text="Biscuits, Chips, Wheat flour, etc."
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="20sp"
+                    android:textStyle="italic" />
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Customer Feedback"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="35dp"
+        android:textStyle="italic|bold"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How was your experience with us?"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:gravity="center"/>
+    <Spinner
+        android:id="@+id/simpleSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please Enter your query here (optional)"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:textColor="@color/black"/>
+    <EditText
+        android:id="@+id/feedback_written"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/contact_us"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact Us :"
+            android:textSize="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"/>
+        <TextView
+            android:id="@+id/contact_us_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Swift Delivery,\nBits-Pilani(Hyderabad Campus)\nHyderabad,Telangana"
+            android:textSize="20dp"
+            android:layout_below="@id/contact_us"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"/>
+
+        <TextView
+            android:id="@+id/contact_us_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+91 9876541234"
+            android:textSize="20dp"
+            android:layout_below="@id/contact_us_name"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"/>
+
+        <TextView
+            android:id="@+id/contact_us_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="deliveryswi94@gmail.com"
+            android:textSize="20dp"
+            android:layout_below="@id/contact_us_number"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"/>
+    </RelativeLayout>
+
+</LinearLayout>

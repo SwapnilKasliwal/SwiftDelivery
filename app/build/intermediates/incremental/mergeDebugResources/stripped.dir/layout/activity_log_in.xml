@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".logInActivity">
+
+    <ImageView
+        android:id="@+id/login_applogo"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:src="@drawable/applogo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="50dp"
+
+        />
+
+    <EditText
+        android:id="@+id/login_name_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_applogo"
+
+        android:padding="20dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:hint="User Name"
+        android:inputType="textPersonName"
+        android:textColor="@color/purple_700"
+        android:textColorHint="@color/black"
+        android:textSize="19sp"
+        />
+
+    <EditText
+        android:id="@+id/login_mail_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_name_input"
+
+        android:padding="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/purple_700"
+        android:textColorHint="@color/black"
+        android:textSize="19sp"
+        />
+
+
+    <EditText
+        android:id="@+id/login_password_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_mail_input"
+
+        android:padding="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="@color/purple_700"
+        android:textColorHint="@color/black"
+        android:textSize="19sp"
+        />
+
+
+    <Button
+        android:id="@+id/login_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_password_input"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/buttons"
+        android:padding="17dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:text="Login"
+        android:textColor="@android:color/white"
+        />
+
+
+</RelativeLayout>

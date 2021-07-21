@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3369366747",
+    "project_id": "swiftdelivery-44924",
+    "storage_bucket": "swiftdelivery-44924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3369366747:android:bcc9eb904ec41ae37a88fe",
+        "android_client_info": {
+          "package_name": "com.example.swiftdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3369366747-5iejedenb949konl25v7ujm69j9hospp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbDts9oDSCe39465vVS0OcgesCaGbVa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3369366747-5iejedenb949konl25v7ujm69j9hospp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

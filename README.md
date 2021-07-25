@@ -32,32 +32,30 @@ minSDK Version 18, Target SDKVersion 30
 
 ### ● Registration
 
-Wehave providedtheregistrationfeatureforthenewuserwheretheuser
-has to enter the username,email and password for creatingthe account.
+We have provided the registration feature for the new user where the user
+has to enter the username, email and password for creating the account.
 
-TheUsercanalsologinfromtheirGoogleorFacebookaccounts,withthe
+The User can also login from their Google or Facebook accounts, withthe
 location of the user taken directly through the Google maps api and an
-email would be sent to the user’s email after successfulregistration.
+email would be sent to the user’s email after successful registration.
 
 
 ### ● Login
 
-```
-The Registered User canlogin to their account by enteringtheir username,
+The Registered User can login to their account by entering their username, 
 email address and password and will be sent to their
-consumer/retailer/wholesaler accounts based on theirregistration details.
-```
+consumer/retailer/wholesaler accounts based on their registration details.
 
 ### ● Dashboard(Consumer)
 
-TheUser canaccesstheShoppingcategories,Helpandsupport,Ordersplaced
-andItemsinCartfromthenavigationdrawer.Fromthemainscreen,theusercan
-selectthecategorytoselectthegroceryproductthattheywanttobuyandaddit
+The User can access the Shopping categories, Help and support, Ordersplaced 
+and Items in Cart from the navigation drawer. From the main screen, the user can 
+select the category to select the grocery product that they want to buy and add it 
 to the cart with the required quantity.
 
 
-ThentheycangotoCartfromthefloatingbuttonornavigationdrawertochecktheadded
-items,confirmtheorderandtrackthestatusoftheorder.Theycangivefeedbackonthe
+Then they can go to Cart from the floating button or navigation drawer to check the added 
+items, confirm the order and track the status of the order. They can give feedback on the 
 service on the Help and Support tab.
 
 

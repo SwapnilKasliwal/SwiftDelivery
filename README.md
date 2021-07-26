@@ -79,43 +79,43 @@ service on the Help and Support tab.
 ### ● Dashboard(Retailer)
 
 The Retailer can add the new products for the consumer to purchase, or
-makean orderfromthewholesaler ifthestock getsover.Whenaddingthe
-product,the retailer can add the image, descriptionand price of the product.
+make an order from the wholesaler if the stock gets over.When adding the 
+product, the retailer can add the image, description and price of the product.
 
 <br/>
 <img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture6.jpg" alt="drawing" width="700"/>
 <br/>
 
-TheRetailerwhilesellingcanseeallthependingorders,theirtotalamount,products
-and delivery details and can change the order statusto “Shipped” and “Delivered”.
+The Retailer while selling can see all the pending orders, their total amount, products 
+and delivery details and can change the order status to “Shipped” and “Delivered”.
 
 <br/>
 <img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture7.jpg" alt="drawing" width="700"/>
 <br/>
 
 
-TheycanrefilltheirstockbypurchasingandplacingorderstotheWholesalersinthe
+They can refill their stock by purchasing and placing orders to the Wholesalers in the 
 similar method.
 
 
-##### ● Dashboard(Wholesaler)
+### ● Dashboard(Wholesaler)
 
-Wholesaler’shomehastheoptiontoaddproductsforsaletotheretailersand
+Wholesaler’s home has the option to add products for sale to the retailers and 
 to see the pending orders by the retailers.
-These products will be exclusivefor retailersatthewholesalepriceandfor
+These products will be exclusive for retailers at the wholesale price and for 
 large quantities.
-InthePendingOrdersbutton,Wholesalerswillbeabletoseetheproductsin
+In the Pending-Orders button, Wholesalers will be able to see the products in 
 the order, total amount and shipping details.
 
 <br/>
 <img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture8.jpg" alt="drawing" width="700"/>
 <br/>
 
-###### ● Feedback
+### ● Feedback
 
-Allthecustomers(Consumers/Retailers)havetheoptiontofilltheDeliveryFeedback
-Form and rate their experience of the purchase. They can also fill any
-query/problemsthattheyfacedwiththeir purchasetoimprovetheuserexperience
+All the customers(Consumers/Retailers) have the option to fill the Delivery Feedback 
+form and rate their experience of the purchase. They can also fill any 
+query/problems that they faced with their purchase to improve the user experience 
 in the future.
 <br/>
 <br/>

@@ -26,8 +26,10 @@ minSDK Version 18, Target SDKVersion 30
 ```
 
 ## Flow of our Application
-
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture1.jpg)
+<br/>
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture1.jpg" alt="drawing" width="600"/>
+<br/>
 
 ## #Functionalities
 
@@ -40,7 +42,9 @@ The User can also login from their Google or Facebook accounts, withthe
 location of the user taken directly through the Google maps api and an
 email would be sent to the user’s email after successful registration.
 
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture2.jpg)
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture2.jpg" alt="drawing" width="700"/>
+<br/>
 
 ### ● Login
 
@@ -48,7 +52,9 @@ The Registered User can login to their account by entering their username,
 email address and password and will be sent to their
 consumer/retailer/wholesaler accounts based on their registration details.
 
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture3.jpg)
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture3.jpg" alt="drawing" width="250"/>
+<br/>
 
 ### ● Dashboard(Consumer)
 
@@ -57,9 +63,13 @@ and Items in Cart from the navigation drawer. From the main screen, the user can
 select the category to select the grocery product that they want to buy and add it 
 to the cart with the required quantity.
 
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture4.jpg)
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture4.jpg" alt="drawing" width="700"/>
+<br/>
 
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture5.jpg)
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture5.jpg" alt="drawing" width="700"/>
+<br/>
 
 Then they can go to Cart from the floating button or navigation drawer to check the added 
 items, confirm the order and track the status of the order. They can give feedback on the 
@@ -72,12 +82,16 @@ The Retailer can add the new products for the consumer to purchase, or
 makean orderfromthewholesaler ifthestock getsover.Whenaddingthe
 product,the retailer can add the image, descriptionand price of the product.
 
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture6.jpg)
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture6.jpg" alt="drawing" width="700"/>
+<br/>
 
 TheRetailerwhilesellingcanseeallthependingorders,theirtotalamount,products
 and delivery details and can change the order statusto “Shipped” and “Delivered”.
 
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture7.jpg)
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture7.jpg" alt="drawing" width="700"/>
+<br/>
 
 
 TheycanrefilltheirstockbypurchasingandplacingorderstotheWholesalersinthe
@@ -93,7 +107,9 @@ large quantities.
 InthePendingOrdersbutton,Wholesalerswillbeabletoseetheproductsin
 the order, total amount and shipping details.
 
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture8.jpg)
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture8.jpg" alt="drawing" width="700"/>
+<br/>
 
 ###### ● Feedback
 
@@ -101,5 +117,8 @@ Allthecustomers(Consumers/Retailers)havetheoptiontofilltheDeliveryFeedback
 Form and rate their experience of the purchase. They can also fill any
 query/problemsthattheyfacedwiththeir purchasetoimprovetheuserexperience
 in the future.
-![name-of-you-image](https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture9.jpg) 
+<br/>
+<br/>
+<img src="https://github.com/SwapnilKasliwal/SwiftDelivery/blob/main/app/src/main/res/images/picture9.jpg" alt="drawing" width="250"/>
+<br/> 
 
